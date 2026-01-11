@@ -9,7 +9,7 @@ Instead of memorizing patterns, this series focuses on **when, why, and how to u
 
 ## 🎥 YouTube Playlist
 👉 Watch the complete playlist here:  
-**[Regex with Python – YouTube Playlist](PASTE_PLAYLIST_LINK_HERE)**
+**[Regex with Python – YouTube Playlist]([PASTE_PLAYLIST_LINK_HERE](https://www.youtube.com/playlist?list=PL0a_f9x9MDQK11advkZO-8xcuWoGGS6KC))**
 
 ---
 
