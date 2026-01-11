@@ -109,7 +109,7 @@ If this series helped you:
 
 * Star ⭐ the repository
 * Share the playlist
-* Subscribe to the channel
+* **[Subscribe to the channel](https://tinyurl.com/akashchauhanofficial)**
 
 Happy Learning 🚀<br>
 **Akash Chauhan**
