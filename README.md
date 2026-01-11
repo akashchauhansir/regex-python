@@ -87,8 +87,8 @@ regex-python/
 
 This repository is meant for **learning, not copy-paste usage**.
 
-👉 Pause the video
-👉 Write regex patterns yourself
+👉 Pause the video<br>
+👉 Write regex patterns yourself<br>
 👉 Break and fix them
 
 That’s how Regex actually sticks.
@@ -111,5 +111,5 @@ If this series helped you:
 * Share the playlist
 * Subscribe to the channel
 
-Happy Learning 🚀
+Happy Learning 🚀<br>
 **Akash Chauhan**
