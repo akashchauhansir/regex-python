@@ -66,7 +66,6 @@ regex-python/
 1. Clone the repository:
    ```bash
    git clone https://github.com/akashchauhansir/regex-python.git
-````
 
 2. Watch videos **in order**
 3. Open the matching Python file
