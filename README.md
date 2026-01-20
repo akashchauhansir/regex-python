@@ -52,10 +52,10 @@ Instead of memorizing patterns, this series focuses on **when, why, and how to u
 
 regex-python/
 │
-├── video_1_string_vs_regex.py
-├── video_2_regex_fundamentals.py
-├── video_3_email_validation.py
-├── video_4_product_scraper.py
+├── video_1_string_vs_regex.ipynb
+├── video_2_regex_fundamentals.ipynb
+├── video_3_email_validation.ipynb
+├── video_4_product_scraper.ipynb
 └── README.md
 
 ````
