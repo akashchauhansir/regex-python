@@ -13,7 +13,7 @@ Instead of memorizing patterns, this series focuses on **when, why, and how to u
 
 ---
 
-## 📌 Series Overview (4 Videos)
+## 📌 Series Overview (2 Videos + 8 Shorts)
 
 ### 🎬 Video 1  
 **Stop Using String Methods! When to Use Python Regex (And Why)**  
@@ -28,23 +28,7 @@ Instead of memorizing patterns, this series focuses on **when, why, and how to u
 - Core regex building blocks
 - Patterns you will use 90% of the time
 - Practice questions with explanations
-
----
-
-### 🎬 Video 3  
-**Python Regex in 5 Minutes: The ONLY Pattern You Need for Email Validation**  
-- Email validation logic
-- Common regex mistakes
-- Practical and safe pattern design
-
----
-
-### 🎬 Video 4  
-**I Built a Product Data Scraper in Python Using ONLY Regex (No BeautifulSoup, No Selenium)**  
-- Extracting product names, prices & IDs
-- Regex-based text scraping
-- When regex scraping makes sense
-
+  
 ---
 
 ## 🗂 Repository Structure
@@ -53,9 +37,7 @@ Instead of memorizing patterns, this series focuses on **when, why, and how to u
 regex-python/
 │
 ├── video_1_string_vs_regex.ipynb
-├── video_2_regex_fundamentals.ipynb
-├── video_3_email_validation.ipynb
-├── video_4_product_scraper.ipynb
+├── video_2_regex_cheatSheet.pdf
 └── README.md
 
 ````
@@ -78,7 +60,7 @@ regex-python/
 * Python beginners
 * Data Science & ML students
 * Interview preparation
-* Developers confused about Regex
+* Developers are confused about Regex
 * Anyone tired of memorizing patterns
 
 ---
