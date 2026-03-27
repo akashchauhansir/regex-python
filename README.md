@@ -13,7 +13,7 @@ Instead of memorizing patterns, this series focuses on **when, why, and how to u
 
 ---
 
-## 📌 Series Overview (2 Videos + 8 Shorts)
+## 📌 Series Overview (2 Videos)
 
 ### 🎬 Video 1  
 **Stop Using String Methods! When to Use Python Regex (And Why)**  
