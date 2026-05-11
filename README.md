@@ -24,7 +24,7 @@ Instead of memorizing patterns, this series focuses on **when, why, and how to u
 ---
 
 ### 🎬 Video 2  
-**Regex Fundamentals MASTERED: The ONLY 3 Tools You Need (with 5 Practice Questions)**  
+**Regex Fundamentals MASTERED: Easy Regex Tutorial (Learn Regex in 20 Minutes ⏱️)**  
 - Core regex building blocks
 - Patterns you will use 90% of the time
 - Practice questions with explanations
